@@ -56,14 +56,14 @@
 	rainPermeable: false,
 	dropsByType: {
 		"*-10": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 1 }  }
+			{ type: "item", code: "morecrops:seeds-bellpepper", quantity: { avg: 1 }  }
 		],
 		"*-11": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 1.09 }  },
+			{ type: "item", code: "morecrops:seeds-bellpepper", quantity: { avg: 1.09 }  },
 			{ type: "item", code: "game:vegetable-bellpepper", quantity: { avg: 6, var: 2 }  }
 		],
 		"*": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 0.7 }  }
+			{ type: "item", code: "morecrops:seeds-bellpepper", quantity: { avg: 0.7 }  }
 		]
 	},
 	cropProps: {
