@@ -57,15 +57,15 @@
 	rainPermeable: false,
 	dropsByType: {
 		"*-6": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 0.99 }  },
-			{ type: "item", code: "morecrops:vegetable-{type}", quantity: { avg: 1.5, var: 0.5 }  },
+			{ type: "item", code: "morecrops:seeds-potato", quantity: { avg: 0.99 }  },
+			{ type: "item", code: "morecrops:vegetable-potato", quantity: { avg: 1.5, var: 0.5 }  },
 		],
 		"*-7": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 1.1 }  },
-			{ type: "item", code: "morecrops:vegetable-{type}", quantity: { avg: 6, var: 1 }  },
+			{ type: "item", code: "morecrops:seeds-potato", quantity: { avg: 1.1 }  },
+			{ type: "item", code: "morecrops:vegetable-potato", quantity: { avg: 6, var: 1 }  },
 		],
 		"*": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 0.7 }  },
+			{ type: "item", code: "morecrops:seeds-potato", quantity: { avg: 0.7 }  },
 		]
 	},
 	cropProps: {
