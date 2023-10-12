@@ -36,11 +36,11 @@
 	rainPermeable: false,
 	dropsByType: {
 		"*-9": [
-			{ type: "item", code: "seeds-{type}", quantity: { avg: 1.1 }  },
-			{ type: "item", code: "vegetable-{type}", quantity: { avg: 11, var: 0 }  },
+			{ type: "item", code: "seeds-corn", quantity: { avg: 1.1 }  },
+			{ type: "item", code: "vegetable-corn", quantity: { avg: 11, var: 0 }  },
 		],
 		"*": [
-			{ type: "item", code: "seeds-{type}", quantity: { avg: 0.7 }  },
+			{ type: "item", code: "seeds-corn", quantity: { avg: 0.7 }  },
 		]
 	},
 	cropProps: {
