@@ -39,11 +39,11 @@
 	rainPermeable: false,
 	dropsByType: {
 		"*-8": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 1.2 }  },
+			{ type: "item", code: "morecrops:seeds-sugarcane", quantity: { avg: 1.2 }  },
 			{ type: "block", code: "morecrops:sugarcane", quantity: { avg: 8 }  },
 		],
 		"*": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 0.7 }  },
+			{ type: "item", code: "morecrops:seeds-sugarcane", quantity: { avg: 0.7 }  },
 		]
 	},
 	cropProps: {
