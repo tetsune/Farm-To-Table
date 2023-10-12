@@ -53,11 +53,11 @@
 	rainPermeable: false,
 	dropsByType: {
 		"*-8": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 1.1 }  },
-			{ type: "item", code: "morecrops:vegetable-{type}", quantity: { avg: 6, var: 1 }  },
+			{ type: "item", code: "morecrops:seeds-jalapeno", quantity: { avg: 1.1 }  },
+			{ type: "item", code: "morecrops:vegetable-jalapeno", quantity: { avg: 6, var: 1 }  },
 		],
 		"*": [
-			{ type: "item", code: "morecrops:seeds-{type}", quantity: { avg: 0.7 }  },
+			{ type: "item", code: "morecrops:seeds-jalapeno", quantity: { avg: 0.7 }  },
 		]
 	},
 	cropProps: {
